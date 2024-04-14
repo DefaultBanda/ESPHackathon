@@ -29,7 +29,8 @@ Energy Efficiency:**
 By incorporating these principles, we aimm to create a practical, reliable, and user-friendly device that can provide valuable information at a glance, with potential for future expansion or modification to include more features or improve user experience
 ![Norm](https://github.com/DefaultBanda/ESPHackathon/assets/98918477/4b44da22-a858-40b6-9ccb-e084071dda99)
 ![Side](https://github.com/DefaultBanda/ESPHackathon/assets/98918477/8aa44c87-df0d-4dc3-a7ce-fe5782c15489)
-![Schmatic](https://github.com/DefaultBanda/ESPHackathon/assets/98918477/2e48898d-3700-4364-9de6-a8038981aed2)
+![Schmatic](https://github.com/DefaultBanda/ESPHackathon/assets/98918477/9920b098-47b8-4525-92a1-7ca2b8c02115)
 ![Front](https://github.com/DefaultBanda/ESPHackathon/assets/98918477/51c67405-9cfe-4e68-8100-c49cb3cf0b11)
 ![BackPCB](https://github.com/DefaultBanda/ESPHackathon/assets/98918477/a30cc026-b7a5-4490-a7af-2d7f11713c35)
+
 
