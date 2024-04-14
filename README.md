@@ -1,3 +1,7 @@
+
+**Clock Weather Station
+**
+
 **Modularity:**
 **Code Organization:** The code is organized into functions, each handling a specific task (e.g., connecting to WiFi, fetching weather data, displaying information). This modular approach makes the code easier to manage, debug, and extend.
 **Function Reusability:** Functions like displayWeather and displayTime are designed to be reusable and independent of the data fetching logic, allowing changes in the display without affecting data retrieval functionalities.
