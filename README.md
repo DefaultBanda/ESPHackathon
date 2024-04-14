@@ -19,3 +19,8 @@ Scalability and Flexibility:
 Easy Configuration Changes: The system design allows for easy changes to the configuration, such as switching the location for weather data or changing the NTP server or update intervals. This makes the device flexible and adaptable to different user needs or geographic locations.
 
 By incorporating these principles, we aimm to create a practical, reliable, and user-friendly device that can provide valuable information at a glance, with potential for future expansion or modification to include more features or improve user experience
+![Back](https://github.com/DefaultBanda/ESPHackathon/assets/98918477/18f69a5c-f142-423c-b09b-978da66055b8)
+![Schmatic](https://github.com/DefaultBanda/ESPHackathon/assets/98918477/2e48898d-3700-4364-9de6-a8038981aed2)
+![Norm](https://github.com/DefaultBanda/ESPHackathon/assets/98918477/4b44da22-a858-40b6-9ccb-e084071dda99)
+![Front](https://github.com/DefaultBanda/ESPHackathon/assets/98918477/51c67405-9cfe-4e68-8100-c49cb3cf0b11)
+![BackPCB](https://github.com/DefaultBanda/ESPHackathon/assets/98918477/a30cc026-b7a5-4490-a7af-2d7f11713c35)
