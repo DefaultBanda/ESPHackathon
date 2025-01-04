@@ -4,7 +4,6 @@
 
 **Made By:**
 Karman Bhatti
-Ishvir Chopra
 
 **Modularity:**
 **Code Organization:** The code is organized into functions, each handling a specific task (e.g., connecting to WiFi, fetching weather data, displaying information). This modular approach makes the code easier to manage, debug, and extend.
